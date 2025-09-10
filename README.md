@@ -31,7 +31,7 @@ Date API - Manejo de fechas y horas
 Clona el repositorio:
 
 bash
-git clone https://github.com/tu-usuario/reloj-digital.git
+git clone https://github.com/vany-dev/reloj.git
 Navega al directorio del proyecto:
 
 bash
