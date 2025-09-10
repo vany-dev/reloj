@@ -92,7 +92,7 @@ Cronómetro
 
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## 👨‍💻 Autor
 Jhovan Hernandez Ramirez / Vany-dev
